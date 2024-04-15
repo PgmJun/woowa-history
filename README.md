@@ -6,8 +6,8 @@
 
 |Project|Repository|회고|
 |------|---|---|
-|숫자 야구 게임|[java-baseball](https://github.com/PgmJun/java-baseball-6)|[1주차 회고](https://velog.io/@pgmjun/%EC%9A%B0%ED%85%8C%EC%BD%94-6%EA%B8%B0-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-1%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)|
-|자동차 경주|[java-racingcar](https://github.com/PgmJun/java-racingcar-6)|[2주차 회고](https://velog.io/@pgmjun/%EC%9A%B0%ED%85%8C%EC%BD%94-6%EA%B8%B0-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-3%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)|
+|숫자 야구 게임|[java-baseball](https://github.com/PgmJun/java-baseball-6/tree/PgmJun)|[1주차 회고](https://velog.io/@pgmjun/%EC%9A%B0%ED%85%8C%EC%BD%94-6%EA%B8%B0-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-1%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)|
+|자동차 경주|[java-racingcar](https://github.com/PgmJun/java-racingcar-6/tree/PgmJun)|[2주차 회고](https://velog.io/@pgmjun/%EC%9A%B0%ED%85%8C%EC%BD%94-6%EA%B8%B0-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-3%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)|
 |로또|[java-lotto](https://github.com/PgmJun/java-lotto-6/tree/PgmJun)|[3주차 회고](https://velog.io/@pgmjun/%EC%9A%B0%ED%85%8C%EC%BD%94-6%EA%B8%B0-2%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)|
 |크리스마스 프로모션|[java-christmas](https://github.com/PgmJun/java-christmas-6-PgmJun)|[4주차 회고](https://velog.io/@pgmjun/%EC%9A%B0%ED%85%8C%EC%BD%94-6%EA%B8%B0-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-4%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0)|
 |(최종 코딩테스트)|[java-oncall](https://github.com/PgmJun/java-oncall-6-PgmJun)|[최종 코딩테스트&합격 회고](https://velog.io/@pgmjun/%EC%9A%B0%ED%85%8C%EC%BD%94-6%EA%B8%B0-%EC%9A%B0%ED%85%8C%EC%BD%94-%EC%B5%9C%EC%A2%85-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%B0%8F-%ED%95%A9%EA%B2%A9-%ED%9A%8C%EA%B3%A0)|
