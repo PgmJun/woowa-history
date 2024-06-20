@@ -18,14 +18,14 @@
 
 <br>
 
-## 🔥 레벨 1 (2024.02.13 ~ 2024.04.05)
+## 🔥 레벨 1 - Java/TDD (2024.02.13 ~ 2024.04.05)
 
 |Project|Repository|PR|
 |------|---|---|
 |자동차 경주|[java-racingcar](https://github.com/PgmJun/java-racingcar/tree/step2)|[1단계 PR](https://github.com/woowacourse/java-racingcar/pull/702) <br> [2단계 PR](https://github.com/woowacourse/java-racingcar/pull/815)|
 |사다리 게임|[java-ladder](https://github.com/PgmJun/java-ladder/tree/step2)|[1단계 PR](https://github.com/woowacourse/java-ladder/pull/266) <br> [2단계 PR](https://github.com/woowacourse/java-ladder/pull/366)|
 |블랙잭|[java-blackjack](https://github.com/PgmJun/java-blackjack/tree/step2)|[1단계 PR](https://github.com/woowacourse/java-blackjack/pull/654) <br> [2단계 PR](https://github.com/woowacourse/java-blackjack/pull/762)|
-|체스|[java-chess](https://github.com/PgmJun/java-chess/tree/step2)|[1, 2단계 PR](https://github.com/woowacourse/java-chess/pull/680) <br> [3, 4단계 PR](https://github.com/woowacourse/java-chess/pull/815)|
+|체스|[java-chess](https://github.com/PgmJun/java-chess/tree/step2)|[1단계 PR](https://github.com/woowacourse/java-chess/pull/680) <br> [2단계 PR](https://github.com/woowacourse/java-chess/pull/815)|
 
 ### ✏️ 학습 기록
 - [클래스 맴버는 각자의 위치가 존재한다](https://pgmjun.tistory.com/136)
@@ -38,5 +38,22 @@
 
 ### 📝 글쓰기
 - [유연성 강화 훈련1 - 🐢 조급한 마음을 느슨하게 풀어가는 과정](https://github.com/PgmJun/woowa-writing/blob/main/level1.md)
+
+<br>
+
+## 🔥 레벨 2 - Springboot/JPA (2024.04.16 ~ 2024.06.14)
+
+|Project|Repository|PR|
+|------|---|---|
+|방탈출 웹서비스 어드민 개발|[spring-roomescape-admin](https://github.com/PgmJun/spring-roomescape-admin/tree/step3)|[1단계 PR](https://github.com/woowacourse/spring-roomescape-admin/pull/10) <br> [2단계 PR](https://github.com/woowacourse/spring-roomescape-admin/pull/106) <br> [3단계 PR](https://github.com/woowacourse/spring-roomescape-admin/pull/190) |
+|방탈출 웹서비스 사용자 예약 기능 개발|[spring-roomescape-member](https://github.com/PgmJun/spring-roomescape-member/tree/step2)|[1단계 PR](https://github.com/woowacourse/spring-roomescape-member/pull/57) <br> [2단계 PR](https://github.com/woowacourse/spring-roomescape-member/pull/126)|
+|방탈출 웹서비스 사용자 예약대기 기능 개발|[spring-roomescape-waiting](https://github.com/PgmJun/spring-roomescape-waiting/tree/main)|[1단계 PR](https://github.com/woowacourse/spring-roomescape-waiting/pull/86) <br> [2단계 PR](https://github.com/woowacourse/spring-roomescape-waiting/pull/122)|
+|방탈출 웹서비스 결제 기능 개발 / 배포|[spring-roomescape-payment](https://github.com/PgmJun/spring-roomescape-payment)|[1단계 PR](https://github.com/woowacourse/spring-roomescape-payment/pull/60) <br> [2단계 PR](https://github.com/woowacourse/spring-roomescape-payment/pull/154)|
+
+### ✏️ 학습 기록
+
+
+### 📝 글쓰기
+- [유연성 강화 훈련2 - 나에 대한 메타인지 기르기](https://github.com/woowacourse/woowa-writing/blob/pgmjun/level2.md)
 
 <br>
