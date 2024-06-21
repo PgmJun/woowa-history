@@ -64,6 +64,7 @@
 ### ✏️ 학습 기록
 - [H2 DB - 인메모리(In-Memory) 모드](https://pgmjun.tistory.com/161)
 - [H2 DB - 3가지 Connection 모드](https://pgmjun.tistory.com/162)
+- [SpringBoot 외부 API 연결 (with. Toss 결제 API)](https://pgmjun.tistory.com/165)
 
 
 ### 📝 글쓰기
