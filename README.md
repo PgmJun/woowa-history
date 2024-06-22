@@ -65,7 +65,7 @@
 - [H2 DB - 인메모리(In-Memory) 모드](https://pgmjun.tistory.com/161)
 - [H2 DB - 3가지 Connection 모드](https://pgmjun.tistory.com/162)
 - [SpringBoot 외부 API 연결 (with. Toss 결제 API)](https://pgmjun.tistory.com/165)
-
+- [Spring @Sql 애노테이션의 동작 원리와 트러블슈팅](https://pgmjun.tistory.com/166)
 
 ### 📝 글쓰기
 - [유연성 강화 훈련2 - 나에 대한 메타인지 기르기](https://github.com/woowacourse/woowa-writing/blob/pgmjun/level2.md)
