@@ -38,7 +38,7 @@
 |블랙잭|[java-blackjack](https://github.com/PgmJun/java-blackjack/tree/step2)|[1단계 PR](https://github.com/woowacourse/java-blackjack/pull/654) <br> [2단계 PR](https://github.com/woowacourse/java-blackjack/pull/762)|
 |체스|[java-chess](https://github.com/PgmJun/java-chess/tree/step2)|[1단계 PR](https://github.com/woowacourse/java-chess/pull/680) <br> [2단계 PR](https://github.com/woowacourse/java-chess/pull/815)|
 
-### ✏️ 학습 기록
+### ✏️ 기록
 - [클래스 맴버는 각자의 위치가 존재한다](https://pgmjun.tistory.com/136)
 - [자바에서 라인을 ‘잘’ 개행하는 방법](https://pgmjun.tistory.com/137)
 - [생성자 체이닝(Constructor Chaining) 기법](https://pgmjun.tistory.com/138)
@@ -61,11 +61,12 @@
 |방탈출 웹서비스 사용자 예약대기 기능 개발|[spring-roomescape-waiting](https://github.com/PgmJun/spring-roomescape-waiting/tree/main)|[1단계 PR](https://github.com/woowacourse/spring-roomescape-waiting/pull/86) <br> [2단계 PR](https://github.com/woowacourse/spring-roomescape-waiting/pull/122)|
 |방탈출 웹서비스 결제 기능 개발 / 배포|[spring-roomescape-payment](https://github.com/PgmJun/spring-roomescape-payment)|[1단계 PR](https://github.com/woowacourse/spring-roomescape-payment/pull/60) <br> [2단계 PR](https://github.com/woowacourse/spring-roomescape-payment/pull/154)|
 
-### ✏️ 학습 기록
+### ✏️ 기록
 - [H2 DB - 인메모리(In-Memory) 모드](https://pgmjun.tistory.com/161)
 - [H2 DB - 3가지 Connection 모드](https://pgmjun.tistory.com/162)
 - [SpringBoot 외부 API 연결 (with. Toss 결제 API)](https://pgmjun.tistory.com/165)
 - [Spring @Sql 애노테이션의 동작 원리와 트러블슈팅](https://pgmjun.tistory.com/166)
+- [우테코 레벨2 돌아보기](https://pgmjun.tistory.com/167)
 
 ### 📝 글쓰기
 - [유연성 강화 훈련2 - 나에 대한 메타인지 기르기](https://github.com/woowacourse/woowa-writing/blob/pgmjun/level2.md)
