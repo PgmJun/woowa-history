@@ -90,12 +90,17 @@ https://ddangkong.kr
 |------|---|
 |실시간 단체 대화주제 제공 서비스 '땅콩'|[2024-ddangkong](https://github.com/woowacourse-teams/2024-ddangkong) |
 
+### 활동
+- **전 기수 프로젝트 Matzip 검색어 추천기능 개발을 통한 사용 편의성 향상**
+  - PR 링크: https://github.com/The-Fellowship-of-the-matzip/mat.zip-back/pull/208
+  - 사용해보기: https://matzip.today/
+
 ### 회고
 - [우테코 레벨3 돌아보기]() (작성중)
 
 ### ✏️ 스터디
-- [레벨에서 배운 것을 인터뷰를 통해 메타인지하는 '레벨인터뷰 스터디'](https://github.com/woowacourse-study-2024/level-interview)
-- [MySQL 활용도를 향상시키기 위한 'Real MySQL8.0 스터디'](https://github.com/2024-woowacourse-study/re-ma-tam)
+- 레벨에서 배운 것을 인터뷰를 통해 메타인지하는 '레벨인터뷰 스터디' [[기록 보러가기]](https://github.com/woowacourse-study-2024/level-interview)
+- MySQL 활용도를 향상시키기 위한 'Real MySQL8.0 스터디' [[기록 보러가기]](https://github.com/2024-woowacourse-study/re-ma-tam)
 
 ### ✏️ 기록
 - [RequestMappingHandlerMapping 과정에 대한 오해 및 분석](https://arc.net/l/quote/guywlesv)
