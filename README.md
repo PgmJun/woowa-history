@@ -27,9 +27,11 @@
 - [정규표현식 활용 시, Pattern 객체를 만들어 사용하자](https://velog.io/@pgmjun/%EC%9A%B0%ED%85%8C%EC%BD%94-6%EA%B8%B0-%EC%9E%90%EB%B0%94-%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D-%ED%99%9C%EC%9A%A9-%EC%8B%9C-Pattern-%EA%B0%9D%EC%B2%B4%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%96%B4-%EC%82%AC%EC%9A%A9%ED%95%98%EC%9E%90)
 - [내 테스트 코드는 제대로 작성되었을까? (with. 코드 커버리지)](https://velog.io/@pgmjun/Java-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BB%A4%EB%B2%84%EB%A6%AC%EC%A7%80-%ED%99%95%EC%9D%B8%EB%B2%95)
 
+---
+
 <br><br>
 
-## 🔥 레벨 1 - Java/TDD (2024.02.13 ~ 2024.04.05)
+## 1️⃣ 레벨 1 - Java/TDD (2024.02.13 ~ 2024.04.05)
 
 |Project|Repository|PR|
 |------|---|---|
@@ -47,12 +49,11 @@
 - [Java 반복 작업 수행 시, For-Loop와 Stream 사이 성능 비교](https://pgmjun.tistory.com/141)
 - [트랜잭션(Transaction) 이란? (with. ACID)](https://pgmjun.tistory.com/142)
 
-### 📝 글쓰기
-- [유연성 강화 훈련1 - 🐢 조급한 마음을 느슨하게 풀어가는 과정](https://github.com/PgmJun/woowa-writing/blob/main/level1.md)
+---
 
 <br><br>
 
-## 🔥 레벨 2 - Springboot/JPA (2024.04.16 ~ 2024.06.14)
+## 2️⃣ 레벨 2 - Springboot/JPA (2024.04.16 ~ 2024.06.14)
 
 |Project|Repository|PR|
 |------|---|---|
@@ -61,14 +62,55 @@
 |방탈출 웹서비스 사용자 예약대기 기능 개발|[spring-roomescape-waiting](https://github.com/PgmJun/spring-roomescape-waiting/tree/main)|[1단계 PR](https://github.com/woowacourse/spring-roomescape-waiting/pull/86) <br> [2단계 PR](https://github.com/woowacourse/spring-roomescape-waiting/pull/122)|
 |방탈출 웹서비스 결제 기능 개발 / 배포|[spring-roomescape-payment](https://github.com/PgmJun/spring-roomescape-payment)|[1단계 PR](https://github.com/woowacourse/spring-roomescape-payment/pull/60) <br> [2단계 PR](https://github.com/woowacourse/spring-roomescape-payment/pull/154)|
 
+### 회고
+- [우테코 레벨2 돌아보기](https://pgmjun.tistory.com/167)
+
 ### ✏️ 기록
 - [H2 DB - 인메모리(In-Memory) 모드](https://pgmjun.tistory.com/161)
 - [H2 DB - 3가지 Connection 모드](https://pgmjun.tistory.com/162)
 - [SpringBoot 외부 API 연결 (with. Toss 결제 API)](https://pgmjun.tistory.com/165)
 - [Spring @Sql 애노테이션의 동작 원리와 트러블슈팅](https://pgmjun.tistory.com/166)
-- [우테코 레벨2 돌아보기](https://pgmjun.tistory.com/167)
+- [스프링 MVC 내부 동작 원리 (with. 핸들러 매핑, 어뎁터 매핑, Filter, Interceptor.. etc)](https://pgmjun.tistory.com/168)
 
-### 📝 글쓰기
-- [유연성 강화 훈련2 - 나에 대한 메타인지 기르기](https://github.com/woowacourse/woowa-writing/blob/pgmjun/level2.md)
+---
 
 <br><br>
+
+## 3️⃣ 레벨 3 - 프로젝트 [실시간 단체 대화주제 제공 서비스 '땅콩'] (2024.07.02 ~ 2024.08.23)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/33e8acd0-76ed-4ede-a739-df6f9389abef" alt="drawing" width="150"/>
+</>
+  
+### 서비스 URL
+https://ddangkong.kr
+
+
+|Project|Repository|
+|------|---|
+|실시간 단체 대화주제 제공 서비스 '땅콩'|[2024-ddangkong](https://github.com/woowacourse-teams/2024-ddangkong) |
+
+### 회고
+- [우테코 레벨3 돌아보기]() (작성중)
+
+### ✏️ 스터디
+- [레벨에서 배운 것을 인터뷰를 통해 메타인지하는 '레벨인터뷰 스터디'](https://github.com/woowacourse-study-2024/level-interview)
+- [MySQL 활용도를 향상시키기 위한 'Real MySQL8.0 스터디'](https://github.com/2024-woowacourse-study/re-ma-tam)
+
+### ✏️ 기록
+- [RequestMappingHandlerMapping 과정에 대한 오해 및 분석](https://arc.net/l/quote/guywlesv)
+- [REST Docs 변경 발생 시, Discord 알림 (시리즈)](https://arc.net/l/quote/jirvdkro)
+- [dev서버 AWS CloudWatch 모니터링 설정](https://desert-yak-60e.notion.site/dev-AWS-CloudWatch-02c90652ea484344841db34cc2c1ef6a)
+- [팀원의 ‘rm -rf ~’ 로 서버 데이터가 날아가버린 사건 발생 및 대응책 고려](https://desert-yak-60e.notion.site/rm-rf-650f2dc4be2a4eb19b79637a44215491)
+- [90일 간격으로 certbot 인증서 및 Actions secrets 자동 최신화 (시리즈)](https://arc.net/l/quote/tlnwqwkq)
+- [게임 방 join 로직 동시성 처리하기 (시리즈)](https://desert-yak-60e.notion.site/join-8556548d513c421a81c1197b8a93ea07)
+- [[협업] 누군가 해주길 기다리지 않고 직접 나서기](https://pgmjun.tistory.com/170)
+- [외부에서 접근이 불가능한 EC2에 Self Hosted Runner를 적용해서 CI/CD 구축하기](https://pgmjun.tistory.com/172)
+- [Github Webhook을 협업툴과 연결해서 팀의 생산성 높이기 (with. Discord)](https://pgmjun.tistory.com/169)
+
+<br><br>
+
+## 📝 유연성 강화 훈련 글쓰기 (나의 내면 성장 일지)
+- [유연성 강화 훈련1 - 🐢 조급한 마음을 느슨하게 풀어가는 과정](https://github.com/PgmJun/woowa-writing/blob/main/level1.md)
+- [유연성 강화 훈련2 - 나에 대한 메타인지 기르기](https://github.com/woowacourse/woowa-writing/blob/pgmjun/level2.md)
+- [유연성 강화 훈련3 - 작은 것 하나라도 직접 나서기](https://github.com/PgmJun/woowa-writing/blob/level3/level3.md)
