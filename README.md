@@ -91,7 +91,7 @@ https://ddangkong.kr
 |실시간 단체 대화주제 제공 서비스 '땅콩'|[2024-ddangkong](https://github.com/woowacourse-teams/2024-ddangkong) |
 
 ### 활동
-- **전 기수 프로젝트 Matzip 검색어 추천기능 개발을 통한 사용 편의성 향상**
+- **이전 기수 프로젝트 'Matzip'의 맛집 검색 기능에 좋아요 수 기반 검색어 추천 기능 개발을 개발하여 사용자들이 검색 버튼을 눌러야 검색어와 관련된 식당을 추천받을 수 있던 불편함을 개선**
   - PR 링크: https://github.com/The-Fellowship-of-the-matzip/mat.zip-back/pull/208
   - 사용해보기: https://matzip.today/
 
