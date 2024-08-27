@@ -9,7 +9,6 @@
 
 [![Video Label](http://img.youtube.com/vi/VsYw2GWgZV0/0.jpg)](https://youtu.be/VsYw2GWgZV0)
 
-
 <br><br>
 
 
@@ -81,26 +80,25 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/33e8acd0-76ed-4ede-a739-df6f9389abef" alt="drawing" width="150"/>
 </>
-  
-### 서비스 URL
-https://ddangkong.kr
 
+<br>
 
-|Project|Repository|
-|------|---|
-|실시간 단체 대화주제 제공 서비스 '땅콩'|[2024-ddangkong](https://github.com/woowacourse-teams/2024-ddangkong) |
+|Project|Repository| URL |
+|------|---|-----|
+|실시간 단체 대화주제 제공 서비스 '땅콩'|[2024-ddangkong](https://github.com/woowacourse-teams/2024-ddangkong) | https://ddangkong.kr |
 
-### 활동
-- **이전 기수 프로젝트 'Matzip'의 맛집 검색 기능에 좋아요 수 기반 검색어 추천 기능 개발을 개발하여 사용자들이 검색 버튼을 눌러야 검색어와 관련된 식당을 추천받을 수 있던 불편함을 개선**
-  - PR 링크: https://github.com/The-Fellowship-of-the-matzip/mat.zip-back/pull/208
-  - 사용해보기: https://matzip.today/
+<br>
 
 ### 회고
 - [우테코 레벨3 돌아보기]() (작성중)
 
+<br>
+
 ### ✏️ 스터디
 - 레벨에서 배운 것을 인터뷰를 통해 메타인지하는 '레벨인터뷰 스터디' [[기록 보러가기]](https://github.com/woowacourse-study-2024/level-interview)
 - MySQL 활용도를 향상시키기 위한 'Real MySQL8.0 스터디' [[기록 보러가기]](https://github.com/2024-woowacourse-study/re-ma-tam)
+
+<br>
 
 ### ✏️ 기록
 - [RequestMappingHandlerMapping 과정에 대한 오해 및 분석](https://arc.net/l/quote/guywlesv)
@@ -119,3 +117,12 @@ https://ddangkong.kr
 - [유연성 강화 훈련1 - 🐢 조급한 마음을 느슨하게 풀어가는 과정](https://github.com/PgmJun/woowa-writing/blob/main/level1.md)
 - [유연성 강화 훈련2 - 나에 대한 메타인지 기르기](https://github.com/woowacourse/woowa-writing/blob/pgmjun/level2.md)
 - [유연성 강화 훈련3 - 작은 것 하나라도 직접 나서기](https://github.com/PgmJun/woowa-writing/blob/level3/level3.md)
+
+<br><br>
+
+## 🏃 활동
+- **이전 기수 프로젝트 'Matzip'의 맛집 검색 기능에 좋아요 수 기반 검색어 추천 기능 개발을 개발하여 사용자들이 검색 버튼을 눌러야 검색어와 관련된 식당을 추천받을 수 있던 불편함 개선**
+<img width="485" alt="image" src="https://github.com/user-attachments/assets/c05fe2b9-a738-4035-b2e6-ad2d9501946d">
+
+  - PR 링크: https://github.com/The-Fellowship-of-the-matzip/mat.zip-back/pull/208
+  - 사용해보기: https://matzip.today/
