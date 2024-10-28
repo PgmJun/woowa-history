@@ -75,7 +75,7 @@
 
 <br><br>
 
-## 3️⃣ 레벨 3 - 프로젝트 [실시간 단체 대화주제 제공 서비스 '땅콩'] (2024.07.02 ~ 2024.08.23)
+## 3️⃣ 레벨 3,4 - 프로젝트 [실시간 단체 대화주제 제공 서비스 '땅콩'] (2024.07.02 ~ 2024.08.23 / 2024.09.02 ~ 2024.11.01)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/33e8acd0-76ed-4ede-a739-df6f9389abef" alt="drawing" width="150"/>
@@ -101,6 +101,8 @@
 <br>
 
 ### ✏️ 기록
+
+**[Level3]**
 - [RequestMappingHandlerMapping 과정에 대한 오해 및 분석](https://arc.net/l/quote/guywlesv)
 - [REST Docs 변경 발생 시, Discord 알림 (시리즈)](https://arc.net/l/quote/jirvdkro)
 - [dev서버 AWS CloudWatch 모니터링 설정](https://desert-yak-60e.notion.site/dev-AWS-CloudWatch-02c90652ea484344841db34cc2c1ef6a)
@@ -110,6 +112,20 @@
 - [[협업] 누군가 해주길 기다리지 않고 직접 나서기](https://pgmjun.tistory.com/170)
 - [외부에서 접근이 불가능한 EC2에 Self Hosted Runner를 적용해서 CI/CD 구축하기](https://pgmjun.tistory.com/172)
 - [Github Webhook을 협업툴과 연결해서 팀의 생산성 높이기 (with. Discord)](https://pgmjun.tistory.com/169)
+
+<br>
+
+**[Level4]**
+- [Replication Lag 해소하기](https://desert-yak-60e.notion.site/Replication-Lag-1221805d0958800097ddcb2c5163d7d5?pvs=4)
+- [땅콩 서버 Observability 개선하기](https://desert-yak-60e.notion.site/Observability-1251805d0958804a9d0fd8ad05d85bf7?pvs=4)
+- [Batch Delete 활용하여 Delete 쿼리 발생 횟수 줄이기 (4n → 4)](https://desert-yak-60e.notion.site/Batch-Delete-Delete-4n-4-f07c34e31b7e4ed096eafbb22c4e673f?pvs=4)
+- [ELB TargetGroup HealthCheck 실패 시, SNS를 통한 경보 전달 기능 구현](https://desert-yak-60e.notion.site/ELB-TargetGroup-HealthCheck-SNS-10b1805d095880f3a00ff3ee2408f55c?pvs=4)
+- [땅콩 Prod 환경의 HTTPS 통신 과정 살펴보기](https://desert-yak-60e.notion.site/Prod-HTTPS-10a1805d095880e99060ff950d9dc492?pvs=4)
+- [AWS ELB의 WAF 설정을 통한 DoS 공격을 포함한 다양한 공격 방어하기](https://desert-yak-60e.notion.site/DoS-DDoS-10f1805d095880728c24ea6526b64c72?pvs=4)
+- [무중단 배포 환경에서 DB 스키마 변경 다루기](https://desert-yak-60e.notion.site/1151805d095880b88c1cfe03a97bd780?pvs=4)
+
+
+---
 
 <br><br>
 
