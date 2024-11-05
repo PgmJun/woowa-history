@@ -117,7 +117,7 @@
 
 **[Level4]**
 - [Replication Lag 해소하기](https://desert-yak-60e.notion.site/Replication-Lag-1221805d0958800097ddcb2c5163d7d5?pvs=4)
-- [땅콩 서버 Observability 개선하기](https://desert-yak-60e.notion.site/Observability-1251805d0958804a9d0fd8ad05d85bf7?pvs=4)
+- [Logback MDC(Mapped Diagnostic Context) 활용하여 Observability 개선하기](https://pgmjun.tistory.com/176)
 - [Batch Delete 활용하여 Delete 쿼리 발생 횟수 줄이기 (4n → 4)](https://desert-yak-60e.notion.site/Batch-Delete-Delete-4n-4-f07c34e31b7e4ed096eafbb22c4e673f?pvs=4)
 - [ELB TargetGroup HealthCheck 실패 시, SNS를 통한 경보 전달 기능 구현](https://desert-yak-60e.notion.site/ELB-TargetGroup-HealthCheck-SNS-10b1805d095880f3a00ff3ee2408f55c?pvs=4)
 - [땅콩 Prod 환경의 HTTPS 통신 과정 살펴보기](https://desert-yak-60e.notion.site/Prod-HTTPS-10a1805d095880e99060ff950d9dc492?pvs=4)
