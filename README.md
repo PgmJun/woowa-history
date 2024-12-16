@@ -75,7 +75,7 @@
 
 <br><br>
 
-## 3️⃣ 레벨 3,4 - 프로젝트 [실시간 단체 대화주제 제공 서비스 '땅콩'] (2024.07.02 ~ 2024.08.23 / 2024.09.02 ~ 2024.11.01)
+## 3️⃣ 4️⃣ 레벨 3,4 - 프로젝트 [실시간 단체 대화주제 제공 서비스 '땅콩'] (2024.07.02 ~ 2024.08.23 / 2024.09.03 ~ 2024.10.25)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/33e8acd0-76ed-4ede-a739-df6f9389abef" alt="drawing" width="150"/>
@@ -90,7 +90,8 @@
 <br>
 
 ### 회고
-- [우테코 레벨3 돌아보기]() (작성중)
+- [우테코 레벨3 돌아보기](https://pgmjun.tistory.com/174)
+- [우테코 레벨4 돌아보기](https://pgmjun.tistory.com/184)
 
 <br>
 
@@ -124,6 +125,15 @@
 - [AWS ELB의 WAF 설정을 통한 DoS 공격을 포함한 다양한 공격 방어하기](https://desert-yak-60e.notion.site/DoS-DDoS-10f1805d095880728c24ea6526b64c72?pvs=4)
 - [무중단 배포 환경에서 DB 스키마 변경 다루기](https://desert-yak-60e.notion.site/1151805d095880b88c1cfe03a97bd780?pvs=4)
 
+
+---
+
+<br><br>
+
+## 5️⃣ 레벨 5 - 취업 준비 기간 (2024.10.28 ~ 2024.11.29)
+
+### 회고
+- [우테코 레벨5 돌아보기](https://pgmjun.tistory.com/185)
 
 ---
 
